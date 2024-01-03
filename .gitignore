@@ -1,0 +1,6 @@
+# Emacs specific
+*~
+# Python
+__pycache__
+# credentials
+bsky.ini
